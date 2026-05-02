@@ -1,0 +1,2 @@
+#exclude python env directory
+.env
